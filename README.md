@@ -1,4 +1,4 @@
-#VishnuFoodBites – Smart Campus Food Ordering Platform
+VishnuFoodBites – Smart Campus Food Ordering Platform
 Role: Developer / Team Member || Technologies: HTML, CSS, JavaScript, PHP/MySQL
 
 Designed and developed a web application to improve the campus food experience by enabling online ordering for students and faculty.
